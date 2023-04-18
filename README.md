@@ -19,3 +19,21 @@
 * Home Page
 ![image](https://user-images.githubusercontent.com/94538318/232747837-e3565901-07f0-41e2-857b-cfeff978cde7.png)
 
+Steps to setup: -
+
+<ol>
+<li> move to the directory
+  <em>(cd path_to_directory)</em> </li>
+<li> make .env file in directory and write </br>
+   MONGO_URI = <em>your_mongo_URI_to_connect_node_app</em> </br>
+   REACT_APP_TOKEN = <em>your_MAPBOX_API_ACCESS_KEY</em>
+<li> npm install
+  <em>This will install all the node modules for server files</em></li>
+<li> cd client
+  <em>Moving to client folder</em></li>
+<li> npm install
+  <em>this will install all the node modules for client directory</em></li>
+<li> cd ..</li>
+<li>npm run dev 
+  <em>This command will run both back-end and front-end simultaneously</em></li>
+</ol>
