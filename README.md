@@ -11,11 +11,11 @@
  * Here are the Screenshots of the App 
 
 * Feed Back Page
- * ![Screenshot 2023-04-18 153206](https://user-images.githubusercontent.com/94538318/232747572-32320d3a-47a1-42cc-8002-1969b18c1b2c.png)
+  ![Screenshot 2023-04-18 153206](https://user-images.githubusercontent.com/94538318/232747572-32320d3a-47a1-42cc-8002-1969b18c1b2c.png)
 
 * Search Page
-* ![image](https://user-images.githubusercontent.com/94538318/232747772-089c628a-1818-4a3d-97f9-4b0eb9f6aa36.png)
+![image](https://user-images.githubusercontent.com/94538318/232747772-089c628a-1818-4a3d-97f9-4b0eb9f6aa36.png)
 
-*Home Page
+* Home Page
 ![image](https://user-images.githubusercontent.com/94538318/232747837-e3565901-07f0-41e2-857b-cfeff978cde7.png)
 
