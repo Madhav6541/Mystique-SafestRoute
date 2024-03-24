@@ -2,7 +2,6 @@
 
 # Saathi- Your safe travel companion
 
-*Project collaborations - Lakshraj, Madhav, Piyush
 
 * This project is about finding the safest route possible betwwen two points A and B.
 * We will be using Web scrapping using beautiful soup, regex, google search docs for the scrapping data from across the webs to classify the crime Prone areas using sentiment analysis of news.
